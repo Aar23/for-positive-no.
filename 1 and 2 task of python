@@ -1,0 +1,4 @@
+a=[1,-2,3,-4,5]
+For num in a:
+  If num>=0
+  Print(num)
